@@ -33,7 +33,7 @@ Advanced data manipulation, pivot tables, and financial modeling.
 ## 👨‍💻 About Me
 I am **Vijay Adithya B K**, a Data Analyst with 3 years of experience. I specialize in turning complex datasets into clear, visual stories that drive decision-making.
 
-- **Portfolio**: [vijayadithyabk.framer.website](https://vijayadithyabk.framer.website/)
+- **Portfolio**: [vijayadithyabk.github.io/VijayAdithyaBK](https://vijayadithyabk.github.io/VijayAdithyaBK/)
 - **LinkedIn**: [Vijay Adithya B K](https://www.linkedin.com/in/vijayadithyabk/)
 
 ## 📄 License
